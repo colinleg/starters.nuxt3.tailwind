@@ -1,6 +1,6 @@
 # Nuxt 3 + Tailwind CSS Minimal Starter
 
-[![Nuxt banner](./.github/assets/banner.png)](https://nuxt.com)
+[![Nuxt banner](./.github/assets/banner.png)](https://colinlegoedec.fr)
 
 ## Tailwind as Post CSS Plugin
 
