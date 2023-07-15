@@ -1,5 +1,7 @@
 # Nuxt 3 + Tailwind CSS Minimal Starter
 
+[![Nuxt banner](./.github/assets/banner.png)](https://nuxt.com)
+
 ## Tailwind as Post CSS Plugin
 
 - Tailwind with typescript from version `3.3.2`
