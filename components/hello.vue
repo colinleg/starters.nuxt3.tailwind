@@ -1,10 +1,10 @@
-<script setup>
+<script setup lang="ts">
 
 </script>
 
 <template>
     <div>
-      <nuxt-page />
+        hello
     </div>
 </template>
 

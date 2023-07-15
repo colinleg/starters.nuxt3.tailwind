@@ -1,15 +1,12 @@
-```
-yarn install
-yarn add @nuxtjs/tailwindcss
+# Nuxt 3 + Tailwind CSS Minimal Starter
 
-nvm install 16.11.0
-ou 
-nvm install 17.0.0
-ou
-nvm install 18.0.0
+## Tailwind as Post CSS Plugin
 
-copier le tailwind.config.js + nuxt.config.ts
+- Tailwind with typescript from version `3.3.2`
+- Import Colors in js : cf `style/tailwind/index`
+- Colors extends means all defaults colors availables
 
-copier style > main.css
 
-```
+# Nuxt 3.0.0
+
+- Upgrade to 3.3.2

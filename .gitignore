@@ -1,8 +1,5 @@
-node_modules
-*.log*
+node_modules/
+./node_modules
 .nuxt
-.nitro
-.cache
 .output
-.env
-dist
+.production.env
